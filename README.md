@@ -27,7 +27,7 @@ me.say_hi()
 <p align="center">
   <a href="mailto:rosalim.sorinionut@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/sorin-ionut-rosalim/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://www.instagram.com/rosalim.ionut"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href=""><img src="https://img.icons8.com/color/96/000000/cv.png" alt="CV"/></a>
 </p>
 
 ## &#x1f4c8; GitHub Stats
