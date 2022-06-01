@@ -42,9 +42,9 @@ me.say_hi()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Sorin-Ionut-Rosalim/frontend-reactapp">
+<!-- <a href="https://github.com/Sorin-Ionut-Rosalim/frontend-reactapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sorin-ionut-rosalim&repo=frontend-reactapp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
+</a> -->
 
 <a href="https://github.com/Sorin-Ionut-Rosalim/Django-Vue-Webshop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sorin-ionut-rosalim&repo=Django-Vue-Webshop&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
